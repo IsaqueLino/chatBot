@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="108e63b0-2c86-4df3-b9f4-926ac183b5bd" name="Changes" comment="" />
+    <list default="true" id="108e63b0-2c86-4df3-b9f4-926ac183b5bd" name="Changes" comment="Atualizando o backend">
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +104,15 @@
       <option name="presentableId" value="Default" />
       <updated>1724300752339</updated>
     </task>
+    <task id="LOCAL-00001" summary="Atualizando o backend">
+      <option name="closed" value="true" />
+      <created>1724975534502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724975534502</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +143,13 @@
               </option>
               <option name="FILTERS">
                 <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
                   <entry key="user">
                     <value>
                       <list>
@@ -145,5 +164,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 1956bcda25cb46d5ad8424e24bd5c138cb009e05." />
+    <MESSAGE value="Atualizando o backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando o backend" />
   </component>
 </project>
